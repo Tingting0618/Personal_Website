@@ -31,12 +31,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'project1.png',
+    title: 'A Hotel Search and Recommendation Engine Using R and Web Scraping',
+    info: 'In the project, we are going to find an ideal hotel for our next trip using web scraping and present recommendations via R Shiny Web App.',
+    info2: '[R Shiny, Python, R]',
+    url: 'https://hotelsearchnow-tingting.shinyapps.io/Hotel_Search_Now/',
+    repo: 'https://github.com/Tingting0618/Recommendation_Engine_R_Web_Scraping', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
