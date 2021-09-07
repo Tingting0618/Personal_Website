@@ -10,18 +10,21 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Tingting',
+  subtitle: 'I am a Data Scientist and Software Developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne: 'I enjoy having a cup of good coffee and coding all day.',
+  paragraphTwo: 'I am most passionate about data analytics and building helpful websites.',
+  paragraphThree:
+    "I do web scraping sometimes to help acquire additional insights (ethically and honoring target website's robot.txt).",
+  paragraphFour:
+    'When I am not working or coding, I like to travel to new places and try local foods. And then post a lot of reviews on TripAdvisor.',
+  resume: 'https://github.com/Tingting0618', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
