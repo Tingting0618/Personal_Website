@@ -49,6 +49,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'earningscall.png',
+    title: 'Earnings Call Database and Text Analysis',
+    info: 'Earnings call transcripts provide invaluable insights. However, it is quite challenging to extract valuable information from these transcripts, conduct analysis, compare transcripts from multiple companies and multiple years, and observe future trends. The goal of this project is to make earnings call analysis easy and save time for our users.',
+    info2: '[Python, Natural Language Toolkit]',
+    url: '',
+    repo: 'https://github.com/Tingting0618/Earnings_Call_Transcript_Database_Analysis_NLTK', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'demand.png',
     title: 'Demand Forecast - Machine Learning',
     info: "In the project, we are going to forecast hotel occupancy 4 days out (e.g., Today is Monday, and we will be forecasting this Friday's occupancy.) On average, the model is off by 4.9% (MAE) in hotel occupancy. For example: Forecasted Occupancy: 90%; Actual Occupancy: 85.1%",
