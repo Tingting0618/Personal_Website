@@ -11,15 +11,15 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Tingting',
-  subtitle: 'I am a data scientist and a python full-stack web developer',
+  subtitle: 'I am a data scientist @ TripAdvisor and a python full-stack web developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I enjoy having a cup of good coffee and coding all day.',
-  paragraphTwo: 'I am most passionate about data analytics and building helpful websites.',
+  paragraphOne: 'I enjoy having a cup of good coffee and coding all day long.',
+  paragraphTwo: 'I am most passionate about data analytics and building web apps.',
   paragraphThree:
     "I do web scraping sometimes to help acquire additional insights (ethically and honoring target websites' robot.txt).",
   paragraphFour:
