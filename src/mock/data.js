@@ -58,7 +58,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'demand.png',
+    img: 'demand2.png',
     title: 'Demand Forecast - Machine Learning',
     info: "In the project, we are going to forecast hotel occupancy 4 days out (e.g., Today is Monday, and we will be forecasting this Friday's occupancy.) On average, the model is off by 4.9% (MAE) in hotel occupancy. For example: Forecasted Occupancy: 90%; Actual Occupancy: 85.1%",
     info2: '[Python, SQL, scikit-learn]',
